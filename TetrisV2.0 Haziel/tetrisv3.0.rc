@@ -1,0 +1,15 @@
+// MENU
+#include "tetrismen.h"
+
+MAINMENU MENU
+{
+	POPUP "Ajustes"
+	{
+		MENUITEM "Nuevo juego", IDM_NUEVO
+		MENUITEM "Salir", IDM_SALIR
+	}
+	POPUP "creditos"
+	{
+		MENUITEM "Informacion", IDM_CREDITOS
+	}
+}

@@ -1,0 +1,4 @@
+// ICONOS EMPLEADOS PARA EL DISEÑO DE LA APLICACION DE TETRIX //
+#include <windows.h>
+
+tetris ICON "Tetris(2).ico"
